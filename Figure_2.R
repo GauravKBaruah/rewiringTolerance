@@ -1,4 +1,4 @@
-rm(list = ls())
+# R script to reproduce figure 2
 source('01_functions_rewiring.R')
 require(deSolve) 
 require(cowplot) 
