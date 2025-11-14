@@ -9,10 +9,10 @@
  1. deSolve (integrating differential equations),statmod (statistical analysis).
  2. cowplot (visualisation graphics),dplyr (efficient data structuring),readr (data analysis), beepr (data arranging), ggplot2 (plotting graphics), viridis(colors for plotting),igraph (network graphics), bipartite (network analysis),sna, network, GGally (network plotting)
 
-##### Required non-standard hardware: none.
-Typical installation time on a normal desktop computer: no appreciable time if R is already installed. Otherwise, it is the installation time of R and the above three packages.
+##### Required non-standard hardware: NONE.
+On a standard desktop system, installation is immediate if R is present; otherwise, it depends on the time required to install R and its dependencies.
 
-The following files are in the repository detailed below also with the `README.md` and `copyingLicense.txt` which is the GNU General Public License, v3.0.
+The repository below includes all project files, as well as the `README.md` and the GNU General Public License v3.0 in `copyingLicense.txt`.
 
 ## Empirical and model-simulated data
 1. Information of the plant-pollinator network data were compiled from www.web-of-life.es database, which is an open-acces data based on species interactions. And the rest of the data was compiled from Marjakangas et al 2025, Eco. Letts. paper.
