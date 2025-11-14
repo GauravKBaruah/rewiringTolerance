@@ -2,6 +2,14 @@
 ## Authors: Gaurav Baruah, Meike J. Wittmann
 ## Affiliations: Theoretical Biology, Faculty of Biology, University of Bielefeld, Germany.
 
+# Operating System: Ubuntu 22.04.5 LTS or Windows 11 ,MacOS 10.13
+# R version: R 4.5.2 (2025-10-31)
+
+# Required R packages:
+ deSolve: Integrating differential equations.
+ tidyverse: Efficient data manipulation and plotting.
+ ggpmisc: Adding statistical information to plots.
+
 
 ## Empirical and model-simulated data
 1. Information of the plant-pollinator network data were compiled from www.web-of-life.es database, which is an open-acces data based on species interactions. And the rest of the data was compiled from Marjakangas et al 2025, Eco. Letts. paper.
