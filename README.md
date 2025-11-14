@@ -1,14 +1,14 @@
 # Github repository for the paper titled " Adaptive rewiring and temperature tolerance shapes the architecture of plant-pollinator networks globally"
-## Authors: Gaurav Baruah, Meike J. Wittmann
-## Affiliations: Theoretical Biology, Faculty of Biology, University of Bielefeld, Germany.
+### Authors: Gaurav Baruah, Meike J. Wittmann
+### Affiliations: Theoretical Biology, Faculty of Biology, University of Bielefeld, Germany.
 
-## Operating System: Ubuntu 22.04.5 LTS or Windows 11 ,MacOS 10.13
-## R version: R 4.5.2 (2025-10-31)
+#### Operating System: Ubuntu 22.04.5 LTS or Windows 11 ,MacOS 10.13
+#### R version: R 4.5.2 (2025-10-31)
 
-## Required R packages:
- deSolve: Integrating differential equations.
- tidyverse: Efficient data manipulation and plotting.
- ggpmisc: Adding statistical information to plots.
+#### Required R packages:
+ 1.deSolve: Integrating differential equations.
+ 2.tidyverse: Efficient data manipulation and plotting.
+ 3. ggpmisc: Adding statistical information to plots.
 
 
 ## Empirical and model-simulated data
