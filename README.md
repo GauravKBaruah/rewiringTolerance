@@ -6,9 +6,8 @@
 ##### R version: R 4.5.2 (2025-10-31)
 
 ##### Required R packages:
- 1. deSolve: Integrating differential equations.
- 2. tidyverse: Efficient data manipulation and plotting.
- 3.  ggpmisc: Adding statistical information to plots.
+ 1. deSolve (integrating differential equations),statmod (statistical analysis).
+ 2. cowplot (visualisation graphics),dplyr (efficient data structuring),readr (data analysis), beepr (data arranging), ggplot2 (plotting graphics), viridis(colors for plotting),igraph (network graphics), bipartite (network analysis),sna, network, GGally (network plotting)
 
 ##### Required non-standard hardware: none.
 Typical installation time on a normal desktop computer: no appreciable time if R is already installed. Otherwise, it is the installation time of R and the above three packages.
