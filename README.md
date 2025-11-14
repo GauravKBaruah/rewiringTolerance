@@ -2,10 +2,10 @@
 ## Authors: Gaurav Baruah, Meike J. Wittmann
 ## Affiliations: Theoretical Biology, Faculty of Biology, University of Bielefeld, Germany.
 
-# Operating System: Ubuntu 22.04.5 LTS or Windows 11 ,MacOS 10.13
-# R version: R 4.5.2 (2025-10-31)
+## Operating System: Ubuntu 22.04.5 LTS or Windows 11 ,MacOS 10.13
+## R version: R 4.5.2 (2025-10-31)
 
-# Required R packages:
+## Required R packages:
  deSolve: Integrating differential equations.
  tidyverse: Efficient data manipulation and plotting.
  ggpmisc: Adding statistical information to plots.
