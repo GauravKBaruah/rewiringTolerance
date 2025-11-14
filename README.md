@@ -2,17 +2,18 @@
 ### Authors: Gaurav Baruah, Meike J. Wittmann
 ### Affiliations: Theoretical Biology, Faculty of Biology, University of Bielefeld, Germany.
 
-#### Operating System: Ubuntu 22.04.5 LTS or Windows 11 ,MacOS 10.13
-#### R version: R 4.5.2 (2025-10-31)
+##### Operating System: Ubuntu 22.04.5 LTS or Windows 11 ,MacOS 10.13
+##### R version: R 4.5.2 (2025-10-31)
 
-#### Required R packages:
+##### Required R packages:
  1. deSolve: Integrating differential equations.
  2. tidyverse: Efficient data manipulation and plotting.
  3.  ggpmisc: Adding statistical information to plots.
 
-#### Required non-standard hardware: none.
+##### Required non-standard hardware: none.
 Typical installation time on a normal desktop computer: no appreciable time if R is already installed. Otherwise, it is the installation time of R and the above three packages.
 
+The following files are in the repository detailed below also with the `README.md` and `copyingLicence.txt` which is the GNU General Public License, v3.0.
 
 ## Empirical and model-simulated data
 1. Information of the plant-pollinator network data were compiled from www.web-of-life.es database, which is an open-acces data based on species interactions. And the rest of the data was compiled from Marjakangas et al 2025, Eco. Letts. paper.
