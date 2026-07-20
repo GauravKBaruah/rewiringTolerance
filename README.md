@@ -1,4 +1,4 @@
-# Github repository for the paper titled " Adaptive rewiring and temperature tolerance shapes the architecture of plant-pollinator networks globally"
+# Github repository for the paper titled "Temperature tolerance and adaptive rewiring jointly predict plant–pollinator network architecture globally."
 ### Authors: Gaurav Baruah, Meike J. Wittmann
 ### Affiliations: Theoretical Biology, Faculty of Biology, University of Bielefeld, Germany.
 
