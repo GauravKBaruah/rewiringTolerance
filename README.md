@@ -24,5 +24,8 @@ The repository below includes all project files, as well as the `README.md` and 
 1. `01_functions_rewiring.R`- is an R script containing all the functions that are either used to simulate the eco-evolutionary dynamics of plant-pollinator networks or used to plot figures in the main-text, or used to estimate network metrics such as connectance, nestedness, etc. Specifically used in producing figure 2 in main-text and in R script `Figure_2.R`.
 2. `Figure_2.R`-  the R script to produce figure 2 of the main-text.
 3. `Figure_3-4.R` and `Figure_5.R` - are R scripts to produce figure 3, figure 4, and figure 5 of the main-text, and some other in the supplementary appendix.
+4. `sampling_coverage_inext_freq_2.R` - R script for evaluating regressions of how sampling coverage and sampling effort impacts network architecture, for table S2.
+5. `figure_S20_bio4_range.R` -  R script for estimating temperature variability and its relationship with network architecture for figure S20.
+6. `figure_S19_BIO10_analysis.R` - R script for estimating quaterly active temperature and its relationship with network architecture for figure S19.
 
 The R scripts and functions were used in Ubuntu (linux-gnu), and R version was 4.5.1.
